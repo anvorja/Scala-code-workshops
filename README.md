@@ -1,12 +1,15 @@
 # Scala-code-workshops2
 Andrés Borja
 
-Codiing for:  
+Coding for:  
 
 Anagrama  
 Canicas  
 ConjuntosF  
 Huffman  
+Kmedianas 
+Matrices  
 Newton  
 Patrones  
-Recursion
+Recursion  
+scalashop

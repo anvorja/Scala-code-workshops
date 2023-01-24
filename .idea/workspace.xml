@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1011fdbf-1e6f-46d6-bf3d-197123a70675" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Patrones/package.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Patrones/pruebas.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Recursion/package.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Recursion/pruebas.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scalashop/scala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Kmedianas/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Kmedianas/pruebas.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Matrices/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Matrices/pruebas.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/common/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/DesenfoqueHorizontal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/DesenfoqueVertical.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/PhotoCanvas.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Package Object" />
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -62,6 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/andre/OneDrive/Documentos/Scala/Scala-code-workshops/src/main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +79,49 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\OneDrive\Documentos\Scala\Scala-code-workshops\src\main" />
+      <recent name="C:\Users\andre\OneDrive\Documentos\Scala\Scala-code-workshops\src\main\scala\scalashop" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scalashop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScalaShop">
+    <configuration name="EjecutorDesenfoqueHorizontal" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalashop.EjecutorDesenfoqueHorizontal" />
+      <module name="Scala-code-workshops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalashop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaShop" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scalashop.ScalaShop" />
+      <module name="Scala-code-workshops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scalashop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScalaShop" />
+        <item itemvalue="Application.EjecutorDesenfoqueHorizontal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674530331432</updated>
-      <workItem from="1674530332723" duration="1491000" />
+      <workItem from="1674530332723" duration="2479000" />
     </task>
     <servers />
   </component>
