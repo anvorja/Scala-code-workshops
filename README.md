@@ -7,5 +7,6 @@ Anagrama
 Canicas  
 ConjuntosF  
 Huffman  
+Newton  
 
 
