@@ -5,4 +5,7 @@ Codiing for:
 
 Anagrama  
 Canicas  
+ConjuntosF  
+Huffman  
+
 
