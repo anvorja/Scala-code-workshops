@@ -8,5 +8,5 @@ Canicas
 ConjuntosF  
 Huffman  
 Newton  
-
-
+Patrones  
+Recursion
