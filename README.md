@@ -1,13 +1,15 @@
 # Scala-code-workshops
+### Functional programming
+
 Andrés Borja
 
-Coding for:  
+Coding for:
 
 Anagrama  
 Canicas  
 ConjuntosF  
 Huffman  
-Kmedianas 
+Kmedianas
 Matrices  
 Newton  
 Patrones  
