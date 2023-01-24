@@ -1,4 +1,4 @@
-# Scala-code-workshops2
+# Scala-code-workshops
 Andrés Borja
 
 Coding for:  
